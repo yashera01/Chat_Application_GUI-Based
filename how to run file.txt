@@ -1,4 +1,6 @@
-on path type cmd and enter then cmd will open then type
+on path , type cmd and enter
+then cmd will open
+then type
 javac server.java    	enter
 java server		enter
 
