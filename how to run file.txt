@@ -1,0 +1,6 @@
+on path type cmd and enter then cmd will open then type
+javac server.java    	enter
+java server		enter
+
+and similar for client file
+ we can chat here then
